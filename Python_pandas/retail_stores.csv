@@ -1,0 +1,36 @@
+store_id,store_name,region,state,city,store_type,open_date
+200,Store 200,South,TX,Austin,Standalone,2020-10-14
+201,Store 201,Midwest,MN,Minneapolis,Standalone,2019-09-17
+202,Store 202,Midwest,MI,Detroit,Mall,2019-10-16
+203,Store 203,South,NC,Charlotte,Standalone,2020-03-03
+204,Store 204,West,AZ,Phoenix,Mall,2019-07-05
+205,Store 205,West,CO,Boulder,Standalone,2019-05-22
+206,Store 206,West,CO,Denver,Standalone,2018-10-14
+207,Store 207,Midwest,OH,Columbus,Standalone,2023-08-05
+208,Store 208,West,WA,Tacoma,Outlet,2021-11-21
+209,Store 209,Northeast,NY,Buffalo,Standalone,2017-11-18
+210,Store 210,South,GA,Atlanta,Mall,2021-03-10
+211,Store 211,Northeast,PA,Philadelphia,Standalone,2021-06-25
+212,Store 212,West,WA,Seattle,Standalone,2022-07-21
+213,Store 213,West,CO,Boulder,Standalone,2019-09-27
+214,Store 214,South,GA,Atlanta,Standalone,2018-04-08
+215,Store 215,South,GA,Atlanta,Standalone,2023-04-02
+216,Store 216,Midwest,MI,Ann Arbor,Standalone,2022-03-17
+217,Store 217,South,FL,Orlando,Standalone,2022-10-19
+218,Store 218,Midwest,IL,Naperville,Mall,2022-06-25
+219,Store 219,Midwest,OH,Cleveland,Standalone,2023-02-06
+220,Store 220,South,NC,Charlotte,Mall,2021-09-01
+221,Store 221,Northeast,NY,Buffalo,Standalone,2021-04-07
+222,Store 222,South,GA,Atlanta,Mall,2021-09-25
+223,Store 223,West,CA,San Jose,Standalone,2020-08-06
+224,Store 224,South,FL,Miami,Standalone,2019-12-31
+225,Store 225,Midwest,MN,St. Paul,Standalone,2017-04-04
+226,Store 226,Northeast,NJ,Newark,Standalone,2022-07-11
+227,Store 227,Midwest,MI,Ann Arbor,Standalone,2022-08-30
+228,Store 228,South,NC,Raleigh,Outlet,2020-06-27
+229,Store 229,Midwest,IL,Chicago,Standalone,2022-12-18
+230,Store 230,West,AZ,Tucson,Standalone,2019-06-13
+231,Store 231,Northeast,NY,New York,Mall,2021-05-20
+232,Store 232,Northeast,NJ,Jersey City,Standalone,2022-05-18
+233,Store 233,South,TX,Austin,Standalone,2022-08-07
+234,Store 234,Midwest,MN,St. Paul,Outlet,2017-05-22
